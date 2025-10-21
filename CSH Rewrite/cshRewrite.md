@@ -1,4 +1,7 @@
 # CSH Rewrite
+> **Project Type:** CSH Project
+> **Project Goal:** Rewrite & Improve CSH Services
+> **Languages & Technologies:** GO
 
 ## Idea
 - Use GO
