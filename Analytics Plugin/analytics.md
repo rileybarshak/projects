@@ -1,7 +1,7 @@
 # Analytics Plugin 
-> **Project Type:** Personal Project
-> **Project Goal:** Published Plugin + Webapp
-> **Languages & Technologies:** Java, Next.js, React, TypeScript, Tailwind CSS
+> **Project Type:** Personal Project  
+> **Project Goal:** Published Plugin + Webapp  
+> **Languages & Technologies:** Java, Next.js, React, TypeScript, Tailwind CSS  
 
 ## MC Plug-in + Web Dashboard
 

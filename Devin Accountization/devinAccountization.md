@@ -1,7 +1,7 @@
 # Devin (3d-printer PC) Accountization
-> **Project Type:** CSH Project
-> **Project Goal:** Improve 3d-printing system
-> **Languages & Technologies:** CSH LDAP, FreeIPA, pGina, Kerberos
+> **Project Type:** CSH Project  
+> **Project Goal:** Improve 3d-printing system  
+> **Languages & Technologies:** CSH LDAP, FreeIPA, pGina, Kerberos  
 
 ### Problem
 The 3D Printers are having problems much more often than they should be... this is costing CSH not only our time, but our money as well. While being confident is great, if you don't know how to use something properly, you shouldn't. Unfortunately, this does not always happen, and as a result our printers break far more frequently than they should. This will soon become an even larger issue once we get our hands on the two new printers we are spending $3,000 on... Additionally, the desktop and software are filled with people's individual projects, cluttering the space and making it more difficult to navigate.

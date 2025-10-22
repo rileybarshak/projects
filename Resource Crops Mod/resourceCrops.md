@@ -1,7 +1,7 @@
 # Resource Crops
-> **Project Type:** Personal Project
-> **Project Goal:** Publish Quality Remake of Magical Crops / Mystical Agriculture
-> **Languages & Technologies:** Java, 3D Modeling
+> **Project Type:** Personal Project  
+> **Project Goal:** Publish Quality Remake of Magical Crops / Mystical Agriculture  
+> **Languages & Technologies:** Java, 3D Modeling  
 
 ## Idea
 Remake Magical Crops / Mystical Agriculture (MC/MA), but better! Basically, take the core of the mod, but make the content deeper and more fulfilling... it should be more difficult and less tedious. 
