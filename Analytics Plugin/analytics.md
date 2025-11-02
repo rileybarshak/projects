@@ -2,7 +2,7 @@
 > **Project Type:** Personal project  
 > **Project Description:** Online analytics dashboard for your Minecraft server
 > **Project Goal:** Published plugin + webapp  
-> **Languages & Technologies:** Java, Next.js, React, TypeScript, Tailwind CSS  
+> **Languages & Technologies:** Java, TypeScript, React, Next.js, Tailwind CSS  
 
 ## MC Plug-in + Web Dashboard
 

@@ -2,7 +2,7 @@
 > **Project Type:** Personal project  
 > **Project Description:** Central location for all things Skript
 > **Project Goal:** Published website & tools  
-> **Languages & Technologies:** Next.js, React, TypeScript, Tailwind CSS  
+> **Languages & Technologies:** TypeScript, React, Next.js, Tailwind CSS, Docker 
 
 ## Features
 - **Skript Parser**
