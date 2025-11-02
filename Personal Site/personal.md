@@ -1,7 +1,7 @@
 # Personal Site
-> **Project Type:** Personal project  
-> **Project Description:** Public website to display represent me and my skills 
-> **Project Goal:** Published high quality website which puts my skills on display
+> **Project Type:** Personal project   
+> **Project Description:** Public website to display represent me and my skills   
+> **Project Goal:** Published high quality website which puts my skills on display    
 > **Languages & Technologies:** TypeScript, React, Next.js, Tailwind CSS   
 
 ## Design

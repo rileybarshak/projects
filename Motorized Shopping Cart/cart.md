@@ -1,8 +1,8 @@
 # Motorized Shopping Cart
-> **Project Type:** Personal project  
-> **Project Description:** Detachable rig to transform an ordinary shopping cart into a motorized one
-> **Project Goal:** Learn about electronics, hardware, and functional 3D printing
-> **Languages & Technologies:** Electrical Systems, CAD, 3D Printing
+> **Project Type:** Personal project   
+> **Project Description:** Detachable rig to transform an ordinary shopping cart into a motorized one   
+> **Project Goal:** Learn about electronics, hardware, and functional 3D printing   
+> **Languages & Technologies:** Electrical Systems, CAD, 3D Printing   
 
 ## Components
 - Shopping Cart

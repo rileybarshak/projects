@@ -1,8 +1,8 @@
 # CSH Rewrite
-> **Project Type:** CSH project  
-> **Project Description:** Rewrite & improvement of CSH services
-> **Project Goal:** Follow better standards to improve functionality and maintainability 
-> **Languages & Technologies:** GO, SQL, LDAP
+> **Project Type:** CSH project   
+> **Project Description:** Rewrite & improvement of CSH services   
+> **Project Goal:** Follow better standards to improve functionality and maintainability   
+> **Languages & Technologies:** GO, SQL, LDAP   
 
 ## Rewrite Principles
 - Use GO
