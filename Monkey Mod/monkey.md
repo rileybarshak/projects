@@ -1,10 +1,8 @@
 # Monkey Mod
-> **Project Type:** Personal Project  
-> **Project Goal:** Learn Mod Creation: Java, Modeling, etc  
+> **Project Type:** Personal project  
+> **Project Description:** Simple Minecraft mod based on monkeys
+> **Project Goal:** Learn mod creation: Java, 3D modeling, etc  
 > **Languages & Technologies:** Java, 3D Modeling  
-
-## Idea
-Simple mod based on monkeys to learn Java & 3D modeling for Minecraft
 
 ## Features
 

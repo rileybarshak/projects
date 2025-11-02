@@ -1,6 +1,7 @@
 # Analytics Plugin 
-> **Project Type:** Personal Project  
-> **Project Goal:** Published Plugin + Webapp  
+> **Project Type:** Personal project  
+> **Project Description:** Online analytics dashboard for your Minecraft server
+> **Project Goal:** Published plugin + webapp  
 > **Languages & Technologies:** Java, Next.js, React, TypeScript, Tailwind CSS  
 
 ## MC Plug-in + Web Dashboard

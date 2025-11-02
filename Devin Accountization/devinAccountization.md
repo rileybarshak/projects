@@ -1,6 +1,7 @@
 # Devin (3d-printer PC) Accountization
-> **Project Type:** CSH Project  
-> **Project Goal:** Improve 3d-printing system  
+> **Project Type:** CSH project  
+> **Project Description:** Create a user sign-in system to restrict access of 3D printers
+> **Project Goal:** Improve 3d-printing system at CSH  
 > **Languages & Technologies:** CSH LDAP, FreeIPA, pGina, Kerberos  
 
 ### Problem

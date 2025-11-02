@@ -1,10 +1,8 @@
 # Skripts.net
-> **Project Type:** Personal Project  
-> **Project Goal:** Published Website & Tools  
+> **Project Type:** Personal project  
+> **Project Description:** Central location for all things Skript
+> **Project Goal:** Published website & tools  
 > **Languages & Technologies:** Next.js, React, TypeScript, Tailwind CSS  
-
-## Idea
-Central location for all things Skript!
 
 ## Features
 - **Skript Parser**

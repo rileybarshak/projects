@@ -1,9 +1,10 @@
 # CSH Rewrite
-> **Project Type:** CSH Project  
-> **Project Goal:** Rewrite & Improve CSH Services  
+> **Project Type:** CSH project  
+> **Project Description:** Rewrite & improvement of CSH services
+> **Project Goal:** Follow better standards to improve functionality and maintainability 
 > **Languages & Technologies:** GO, SQL (or EntGO)
 
-## Idea
+## Rewrite Principles
 - Use GO
 - Use LDAP UUID instead of usernames (UID)
 	- Don’t use LDAP when not needed (Audiophiler #61)
