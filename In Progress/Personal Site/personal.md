@@ -13,7 +13,18 @@
 
 ### About Me
 
-### Projects
+### [Projects](https://projects.rileyb.net)
+A collection of my projects in various stages of completion. Click on any project to explore its documentation and resources.
+- Dynamically pulls content from [projects page](https://github.com/rileybarshak/projects) on github
+	- Gets name from directory
+	- Gets description from line 3 of md
+	- Gets tags from line 5 of md
+		- Colors tags based on category
+	- Gets completion status from parent directory
+		- Colors folder icon based on completion status
+- Sort by completion status (then alphabetically)
+- Click on project to open renderd markdown file from project directory
+	- if project name (line 1) is a link, redirect to it instead 
 
 ### Experience
 
