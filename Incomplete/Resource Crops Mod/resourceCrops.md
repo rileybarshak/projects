@@ -1,6 +1,6 @@
 # Resource Crops
 > **Project Type:** Personal project   
-> **Project Description:** Minecraft mod which allows player to grow & harvest their resources   
+> **Project Description:** Minecraft mod which allows players to grow & harvest their resources   
 > **Project Goal:** Publish quality mod based on Magical Crops / Mystical Agriculture   
 > **Languages & Technologies:** Java, 3D Modeling   
 
