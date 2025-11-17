@@ -6,24 +6,26 @@
 
 ## Components
 - Shopping Cart
-- Motor
-- Wheel
-- Motor Controller
-- Rotary Encoder / Potentiometer, Switch, Button
-- Rasberry Pi Pico (If using rotary encoder)
-- Car Battery
+- Motors
+- Wheels
+- Motor Controllers
+- Potentiometer, Switchs, Buttons
+- Arduinos
+- LifePO4 Battery
 
 ## Design
 #### Handle
+##### Control Panel
 - on/off switch
-- Rotary Encoder / Potentiometer to controll speed
-- Button for throttle (stop/go)
+- forward/reverse switch
+- Potentiometer to control speed
+- Buttons for throttle (left/right)
 #### Bottom
-- Car battery mounted at front for power (and weight balance)
+- Battery mounted at front for power (and weight balance)
 - Electronics
 - Motor & drive train 
-- Wood plank (for standing & part mounting)
-- Wheel (off the back, in the middle)
+- Wood standing platform
+- Rear wheels
 
 
 ## Original Blueprints
