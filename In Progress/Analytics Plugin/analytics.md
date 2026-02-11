@@ -13,15 +13,22 @@ java
 - Gather server info & update Database
 
 ### Web Dashboard:
-Next.js, React, Tailwind CSS
+TanStack Start, TypeScript, React, Tailwind CSS
 - Secure account creation
 - Server creation: Generate UID & database stuff 
 - Separate per-server dashboards under same account
 - Main dashboard: compilation of all servers under account
 - Display live & historical server data from database
 
+### Development log:
+https://github.com/xena-studios/serverstats
+https://serverstats.co
+- **MrZCookie** - Created accounts/sign-in with authentication 
+  - Pushed on 02/04-05/2026
+- **Riley Barshak** - Created full landing page
+  - Merged on 02/11/2026
 
-### Proof of Concept
+### Original Proof of Concept
 
 #### Skript
 ```

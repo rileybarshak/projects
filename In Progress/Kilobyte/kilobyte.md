@@ -4,7 +4,7 @@
 > **Project Goal:** Learn about electronics, hardware, and functional 3D printing   
 > **Languages & Technologies:** Electrical Systems, CAD, 3D Printing   
 
-## **K**inetic **I**nnovitive **L**oad **O**ptimizing **B**asket for **Y**our **T**ransportation **E**fficiency
+## <u>**K**</u>inetic <u>**I**</u>nnovitive <u>**L**</u>oad <u>**O**</u>ptimizing <u>**B**</u>asket for <u>**Y**</u>our <u>**T**</u>ransportation <u>**E**</u>fficiency
 
 ## Components
 - Shopping Cart
