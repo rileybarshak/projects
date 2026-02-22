@@ -15,7 +15,7 @@
 
 ### [Projects](https://projects.rileyb.net)
 A collection of my projects in various stages of completion. Click on any project to explore its documentation and resources.
-- See [Project Viewer](/Completed/Project%20Viewer/)
+- See [Project Viewer](/Completed/Project%20Viewer/project-viewer.md)
 
 ### Experience
 
