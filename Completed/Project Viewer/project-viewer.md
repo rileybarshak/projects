@@ -9,7 +9,7 @@
 <h1 style="color:red; margin-bottom: 0;">DEPRECATED</h1>
 <h4 style="margin-top: 0;">
   This project will no longer receive updates. See
-  <a href="/Incomplete/Project Viewer V2/project-viewer-v2.md">Project Viewer V2</a>
+  <a href="https://projects.rileyb.net/project/Incomplete%2FProject%20Viewer%20V2">Project Viewer V2</a>
 </h4>
 
 
